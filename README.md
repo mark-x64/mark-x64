@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### 🗨️ Language I Use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
-[![Mark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waka_d4c6d8bb-158d-415c-b365-a14333d99566)](https://github.com/anuraghazra/github-readme-stats)
