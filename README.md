@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 ### 🗨️ Language I Use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
+
+### ⏲️ Time I Spent For:
 [![Mark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
