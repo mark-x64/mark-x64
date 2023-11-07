@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asir2004)](https://git.io/streak-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
