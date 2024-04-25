@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats:
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true)]
+[Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true)
 
 ### 🗨️ Language I Use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asir2004)
 
 ### ⏲️ Time I Spent For:
 
-[![Mark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asir2004)](https://github.com/anuraghazra/github-readme-stats)
+[Mark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asir2004)
