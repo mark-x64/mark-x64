@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats:
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true)]
 
 ### 🗨️ Language I Use:
 
