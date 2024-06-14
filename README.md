@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔭 GitHub Gist:
+
+[asir2004's All Gists](https://gist.github.com/asir2004)
+
 ### 🔥 My Stats:
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true)
