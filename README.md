@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔥 Currently Cooking:
 
-![Mark View](https://markview.work)
+![Mark View](https://www.markview.work/)
 
 ### 🗨️ Learning front end web dev.
 
