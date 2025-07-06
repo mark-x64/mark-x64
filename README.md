@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 [asir2004's All Gists](https://gist.github.com/asir2004)
 
-### 🔥 My Stats:
+### 🔥 Currently Cooking:
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=asir2004&show_icons=true&rank_icon=percentile)
+![Mark View](https://markview.work)
 
 ### 🗨️ Learning front end web dev.
 
