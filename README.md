@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🔭 GitHub Gist:
 
-[asir2004's All Gists](https://gist.github.com/mark-x64)
+[MarkBy's All Gists](https://gist.github.com/mark-x64)
 
 ### 🔥 Currently Cooking:
 
